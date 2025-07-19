@@ -1,6 +1,17 @@
-<h3 align="center">A cybersecurity enthusiast.</h3>
+# [!] About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/discord.com/users/ecarl4te" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.com/users/ecarl4te" height="30" width="40" /></a>
-</p>
+**cybersecurity enthusiast.**
+
+---
+
+## [+] Skills
+
+- Fear Christ
+
+## [-] Contact Me
+
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat&logo=discord&logoColor=white)](https://discord.com/users/876923835469922344)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/ec4rlate)
+[![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://eyeswoke.xyz)
+
+---
