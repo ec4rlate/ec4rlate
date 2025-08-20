@@ -2,9 +2,9 @@
 
 **cybersecurity enthusiast.**
 
- - anti-pédos, anti-élites
- - anti-tout & pro-rien
-
+ - anti-élites, anti-pédos
+                    - anti-tout & pro-rien
+         **Fsociety**
 ----
 
 ## [+] Skills
